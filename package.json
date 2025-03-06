@@ -1,0 +1,23 @@
+{
+  "name": "lab1dca",
+  "version": "1.0.0",
+  "description": "Lab1",
+  "main": "index.js",
+  "type" : "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elicu05/Lab1DCA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elicu05/Lab1DCA/issues"
+  },
+  "homepage": "https://github.com/Elicu05/Lab1DCA#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
